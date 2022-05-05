@@ -1,0 +1,11 @@
+{
+  "ERRORS": {
+    "GENERAL": {
+      "INTERNAL_SERVER_ERROR": "Internal server error!",
+      "INVALID_CREDENTIALS": "Invalid credentials!"
+    },
+    "AUTH": {
+      "EMAIL_EXISTS": "Email already exists!"
+    }
+  }
+}
